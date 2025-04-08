@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+./configure\PYG{+w}{ }\PYGZhy{}\PYGZhy{}prefix\PYG{o}{=}/home/john/products/Tauola/TAUOLA
+\PYGZhy{}\PYGZhy{}with\PYGZhy{}hepmc\PYG{o}{=}/home/john/products/HepMC2/HepMC\PYGZhy{}2.06.11/
+\PYGZhy{}\PYGZhy{}with\PYGZhy{}hepmc3\PYG{o}{=}/home/john/products/HepMC3/HepMC3\PYGZhy{}3.3.0
+\PYGZhy{}\PYGZhy{}with\PYGZhy{}lhapdf\PYG{o}{=}/home/john/products/LHAPDF/LHAPDF\PYGZhy{}6.5.5
+\PYGZhy{}\PYGZhy{}with\PYGZhy{}pythia8\PYG{o}{=}/home/john/products/Pythia8/pythia8313
+\PYGZhy{}\PYGZhy{}with\PYGZhy{}mc\PYGZhy{}tester\PYG{o}{=}/home/john/products/MC\PYGZhy{}TESTER/mc\PYGZhy{}tester
+\end{Verbatim}
